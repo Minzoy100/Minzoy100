@@ -34,6 +34,8 @@ Student in : **Cyber-security**, **IT**, **Development** & **Electronics**.
 <a href="https://sqlitebrowser.org/" target="_blank"><img src="ressources/sqlite_browser.png" alt="DB Browser for SQLite" title="DB4S" width=32px></a>
  &nbsp;
 <a href="https://create.roblox.com/" target="_blank"><img src="ressources/roblox_studio.png" alt="Roblox Studio" title="Roblox Studio" width=32px></a>
+ &nbsp;
+<a href="https://www.parrotsec.org/" target="_blank"><img src="ressources/parrotos.png" alt="Parrot Sec." title="Parrot OS" width=32px></a>
 
 ### The librarys I use
 <a href="https://tailwindcss.com/" target="_blank"><img src="ressources/tailwind.png" alt="TailWindCSS" title="TailWind" width=32px></a>
