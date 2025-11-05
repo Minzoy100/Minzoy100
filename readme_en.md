@@ -10,7 +10,6 @@
 Student in : **Cyber-security**, **IT**, **Development** & **Electronics**.
 - **Senior Analyst** (**Confirmed Analyst**) at [Protect](https://www.protect-bot.fr/).
 - **Administrator** & **Partnership manager** at [Sky](https://skybot.fr/).
-- **Administrator** & **Quality manager** at [Celestoria](https://discord.gg/H2eP8RE38x).
 
 ## My skills
 
@@ -63,3 +62,4 @@ Student in : **Cyber-security**, **IT**, **Development** & **Electronics**.
 ****
 
  ###### Inspired by the profile of  [Str4ky](https://github.com/Str4ky)
+
