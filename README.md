@@ -14,7 +14,7 @@
 ## Mes compétences
 
 ### Les outils que j'utilise
-<a href="https://zorin.com/" target="_blank"><img src="ressources/ZorinOS.png" alt="ZorinOs" title="ZorinOs" width=32px></a>
+<a href="https://www.ubuntu-fr.org/" target="_blank"><img src="ressources/ubuntu-logo.png" alt="UbuntuOS" title="Ubuntu" width=32px></a>
  &nbsp;
 <a href="https://www.microsoft.com/windows" target="_blank"><img src="ressources/Windows11.png" alt="Windows" title="Windows" width=32px></a>
  &nbsp;
@@ -50,6 +50,8 @@
  <a href="https://fr.wikipedia.org/wiki/Hypertext_Markup_Language" target="_blank"><img src="ressources/HTML.png" alt="HTML5" title="HTML" width=32px></a>
  &nbsp;
 <a href="https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade" target="_blank"><img src="ressources/css.png" alt="CSS" title="CSS" width=32px></a>
+ &nbsp;
+ <a href="https://fr.wikipedia.org/wiki/C++" target="_blank"><img src="ressources/cpp_logo.png" alt="C++" title="C++" width=32px></a>
  &nbsp;
 
 ###### Où je débute
