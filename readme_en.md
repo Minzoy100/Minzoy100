@@ -14,7 +14,7 @@ Student in : **Cyber-security**, **IT**, **Development** & **Electronics**.
 ## My skills
 
 ### The tools I use
-<a href="https://zorin.com/" target="_blank"><img src="ressources/ZorinOS.png" alt="ZorinOs" title="ZorinOs" width=32px></a>
+<a href="https://ubuntu.com/" target="_blank"><img src="ressources/ubuntu-logo.png" alt="UbuntuOS" title="Ubuntu" width=32px></a>
  &nbsp;
 <a href="https://www.microsoft.com/windows" target="_blank"><img src="ressources/Windows11.png" alt="Windows" title="Windows" width=32px></a>
  &nbsp;
@@ -47,19 +47,22 @@ Student in : **Cyber-security**, **IT**, **Development** & **Electronics**.
 ###### Where I am an intermediary
 <a href="https://www.python.org/" target="_blank"><img src="ressources/python.png" alt="Python" title="Python" width=32px></a>
  &nbsp;
- <a href="https://fr.wikipedia.org/wiki/Hypertext_Markup_Language" target="_blank"><img src="ressources/HTML.png" alt="HTML5" title="HTML" width=32px></a>
+ <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="ressources/HTML.png" alt="HTML5" title="HTML" width=32px></a>
  &nbsp;
-<a href="https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade" target="_blank"><img src="ressources/css.png" alt="CSS" title="CSS" width=32px></a>
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="ressources/css.png" alt="CSS" title="CSS" width=32px></a>
+ &nbsp;
+ <a href="https://en.wikipedia.org/wiki/C++" target="_blank"><img src="ressources/cpp_logo.png" alt="C++" title="C++" width=32px></a>
  &nbsp;
 
 ###### Where I begin
- <a href="https://fr.wikipedia.org/wiki/JavaScript" target="_blank"><img src="ressources/JavaScript.png" alt="JavaScript" title="JavaScript" width=32px></a>
+ <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="ressources/JavaScript.png" alt="JavaScript" title="JavaScript" width=32px></a>
  &nbsp; 
 <a href="https://www.lua.org/" target="_blank"><img src="ressources/lua_logo.png" alt="LUA" title="LUA" width=32px></a>
  &nbsp; 
-<a href="https://www.ruby-lang.org/fr/" target="_blank"><img src="ressources/ruby.png" alt="Ruby" title="Ruby" width=32px></a>
+<a href="https://www.ruby-lang.org/en/" target="_blank"><img src="ressources/ruby.png" alt="Ruby" title="Ruby" width=32px></a>
 
 ****
 
  ###### Inspired by the profile of  [Str4ky](https://github.com/Str4ky)
+
 
