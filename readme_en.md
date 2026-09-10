@@ -10,6 +10,7 @@
 Student in : **Cyber-security**, **IT**, **Development** & **Electronics**.
 - **Senior Analyst** (**Confirmed Analyst**) at [Protect](https://www.protect-bot.fr/).
 - **Administrator** & **Partnership manager** at [Sky](https://skybot.fr/).
+- **Co-Owner** of **Multiverse**
 
 ## My skills
 
