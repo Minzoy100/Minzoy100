@@ -10,7 +10,7 @@
 Étudiant en : **Cybersécurité**, **Informatique**, **Développement** & **Électronique**.
 - **Analyste confirmé** chez [Protect](https://www.protect-bot.fr/).
 - **Administrateur** & **Responsable Partenariat** chez [Sky](https://skybot.fr/).
-- **Owner** De **Multiverse**
+- **Co-Propriétaire** de **Multiverse**
 
 ## Mes compétences
 
